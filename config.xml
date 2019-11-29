@@ -6,10 +6,10 @@
         versionCode = "37100"
         android-versionCode="37100"
         version   = "3.7.1">
-    <name>Moodle</name>
+    <name>Eilmin</name>
 
     <description>
-        Moodle official app
+       Eilmin official app
     </description>
 
     <author href="http://eilmin.com" email="info@eilmin.com">
