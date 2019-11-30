@@ -3,8 +3,8 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.eilmin.mobile"
-        versionCode = "37200"
-        android-versionCode="37200"
+        versionCode = "37201"
+        android-versionCode="37201"
         version   = "3.7.2">
     <name>Eilmin</name>
 
